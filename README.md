@@ -7,7 +7,7 @@
 🎓 MS Computer Science @ San José State University
 🏦 4+ years across two banks (NatWest Group, Societe Generale) building fraud detection & financial crime risk models
 📍 San Jose, CA
-✉️ Reach me at [aishwaryaramanath.shanbhag@sjsu.edu](mailto:aishwaryaramanath.shanbhag@sjsu.edu)
+✉️ Reach me at [aishwaryaramanath.shanbhag@sjsu.edu](mailto:aishwaryaramanath.shanbhag@sjsu.edu) or [ashanbhag26@gmail.com](ashanbhag26@gmail.com)
 🌐 Portfolio: [aish-19shanbhag.github.io](https://aish-19shanbhag.github.io)
 
 Check out my [repositories](https://github.com/aish-19shanbhag?tab=repositories) for project code.
