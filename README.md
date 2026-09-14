@@ -68,6 +68,7 @@ Skills: `Backend Development` `Debugging` `REST APIs`
 - **[Intrusion Detection Using Ensemble Techniques](https://github.com/aish-19shanbhag/intrusion-detection-ensemble)** — Ensemble classification system (Maximum Voting: Naive Bayes, Decision Trees, XGBoost) reaching **99.93% accuracy** and **0.07% false-positive rate**.
 - **[Social Distance Detection using YOLOv3](https://github.com/aish-19shanbhag/social-distance-detection)** — Real-time proximity-risk detection with YOLOv3/SSD MobileNet, **92% accuracy** pretrained, **95%** after transfer learning.
 - **[House Price Prediction Model](https://github.com/aish-19shanbhag/house-price-prediction-model)** — Multi-model regression pipeline (Linear, Lasso, Gradient Boosting) with geospatial analysis on King County housing data.
+- **[Warehouse Management System](https://github.com/aish-19shanbhag/warehouse-management-system)** — Object-oriented inventory management system in C++ with role-based access control, 82.8% test pass rate.
 
 ---
 
