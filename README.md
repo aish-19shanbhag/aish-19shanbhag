@@ -29,7 +29,7 @@ Check out my [repositories](https://github.com/aish-19shanbhag?tab=repositories)
 ## 💼 Experience
 
 **Data Scientist** — NatWest Group · Full-time
-Jun 2025 – Present · Bengaluru, India
+Jun 2025 – Jul 2026 · Bengaluru, India
 
 - Optimized the **TMX ThreatMetrix** onboarding fraud model, cutting **$94,000 in monthly fraud losses**, reducing **false positives by 58%**, and lifting **fraud capture rates by 143%**.
 - Built **model monitoring dashboards** in **Amazon QuickSight**, embedding financial KPIs and feature distribution shifts to ensure continuous algorithmic stability.
