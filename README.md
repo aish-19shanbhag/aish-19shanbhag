@@ -7,6 +7,7 @@
 🎓 MS Computer Science @ San José State University
 🏦 4+ years across two banks (NatWest Group, Societe Generale) building fraud detection & financial crime risk models
 📍 San Jose, CA
+🎯 Seeking **Summer 2027** Data Science / ML / SWE internships
 ✉️ Reach me at [aishwaryaramanath.shanbhag@sjsu.edu](mailto:aishwaryaramanath.shanbhag@sjsu.edu) or [ashanbhag26@gmail.com](mailto:ashanbhag26@gmail.com)
 🌐 Portfolio: [aish-19shanbhag.github.io](https://aish-19shanbhag.github.io)
 
@@ -19,8 +20,6 @@ Check out my [repositories](https://github.com/aish-19shanbhag?tab=repositories)
 [![Resume](https://img.shields.io/badge/-Resume-B8862C?style=flat-square)](https://aish-19shanbhag.github.io/resume/Aishwarya_DataScientist_Resume.pdf)
 
 ### 🧰 Languages & Tools
-
-![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=aish-19shanbhag&langs_count=6&layout=compact&title_color=1B2430&text_color=3F6659&bg_color=F6F4EF)
 
 `Python` `SQL` `R` `XGBoost` `NLP` `AWS` `Amazon SageMaker` `Amazon QuickSight` `Snowflake` `Spark` `Tableau` `Git`
 
@@ -65,10 +64,10 @@ Skills: `Backend Development` `Debugging` `REST APIs`
 
 ### 📌 Featured Projects
 
-- **[Intrusion Detection Using Ensemble Techniques](https://github.com/aish-19shanbhag/intrusion-detection-ensemble)** — Ensemble classification system (Maximum Voting: Naive Bayes, Decision Trees, XGBoost) reaching **99.93% accuracy** and **0.07% false-positive rate**.
-- **[Social Distance Detection using YOLOv3](https://github.com/aish-19shanbhag/social-distance-detection)** — Real-time proximity-risk detection with YOLOv3/SSD MobileNet, **92% accuracy** pretrained, **95%** after transfer learning.
-- **[House Price Prediction Model](https://github.com/aish-19shanbhag/house-price-prediction-model)** — Multi-model regression pipeline (Linear, Lasso, Gradient Boosting) with geospatial analysis on King County housing data.
-- **[Warehouse Management System](https://github.com/aish-19shanbhag/warehouse-management-system)** — Object-oriented inventory management system in C++ with role-based access control, 82.8% test pass rate.
+- **[Intrusion Detection Using Ensemble Techniques](https://github.com/aish-19shanbhag/intrusion-detection-ensemble)** — Maximum Voting Ensemble (Naive Bayes, Decision Tree, XGBoost) on NSL-KDD: **99.91% accuracy**, **0.06% false-positive rate**, beats every base model on the official benchmark.
+- **[Social Distance Detection using YOLOv3](https://github.com/aish-19shanbhag/social-distance-detection)** — YOLOv3 / SSD MobileNet person detection with bird's-eye perspective mapping and real-distance risk zones; Streamlit app, ~11 fps on CPU.
+- **[House Price Prediction Model](https://github.com/aish-19shanbhag/house-price-prediction-model)** — Multi-model regression on 21,613 King County sales; original comparison reproduced (Lasso best), 2026 rebuild reaches **R² 0.915** with Gradient Boosting.
+- **[Warehouse Management System](https://github.com/aish-19shanbhag/warehouse-management-system)** — Role-based inventory system in modern C++17 with salted SHA-256 logins and **78 automated tests** passing in CI.
 
 ---
 
