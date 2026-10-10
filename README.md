@@ -1,6 +1,6 @@
 ### Hi, I'm Aishwarya 👋
 
-**`MS CS Student`** **`Data Scientist`** **`Fraud & FinCrime Analytics`** **`Risk Modeling`**
+  **`Data Scientist`** **`Machine Learning`** **`Fraud & Risk Analytics`** **`MS CS @ SJSU`**
 
 ---
 
