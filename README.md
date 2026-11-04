@@ -87,4 +87,19 @@ Skills: `Backend Development` `Debugging` `REST APIs`
 
 🗣️ Languages: English (Proficient) · Hindi (Fluent) · Kannada (Fluent) · Konkani (Native) · Sanskrit (Basic)
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aish-19shanbhag&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aish-19shanbhag&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aish-19shanbhag&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aish-19shanbhag&theme=minimal&hide_border=true" />
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aish-19shanbhag&color=3F6659&style=flat-square&label=Profile+Views)
