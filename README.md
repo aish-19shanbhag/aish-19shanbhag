@@ -1,6 +1,9 @@
 ### Hi, I'm Aishwarya 👋
 
-  **`Data Scientist`** **`Machine Learning`** **`Fraud & Risk Analytics`** **`MS CS @ SJSU`**
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-0F766E?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-14B8A6?style=for-the-badge)
+![Fraud & Risk Analytics](https://img.shields.io/badge/Fraud_%26_Risk_Analytics-0891B2?style=for-the-badge)
+![MS CS @ SJSU](https://img.shields.io/badge/MS_CS_%40_SJSU-0055A2?style=for-the-badge)
 
 ---
 
@@ -19,9 +22,44 @@ Check out my [repositories](https://github.com/aish-19shanbhag?tab=repositories)
 [![Portfolio](https://img.shields.io/badge/-Portfolio%20Site-1B2430?style=flat-square&logo=googlechrome&logoColor=white)](https://aish-19shanbhag.github.io) &nbsp;
 [![Resume](https://img.shields.io/badge/-Resume-B8862C?style=flat-square)](https://aish-19shanbhag.github.io/resume/Aishwarya_DataScientist_Resume.pdf)
 
-### 🧰 Languages & Tools
+### 🛠️ Tech Stack
 
-`Python` `SQL` `R` `XGBoost` `NLP` `AWS` `Amazon SageMaker` `Amazon QuickSight` `Snowflake` `Spark` `Tableau` `Git`
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**ML & Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0F766E?style=for-the-badge&logo=huggingface&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Big Data & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-01A88D?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Visualization & BI**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
