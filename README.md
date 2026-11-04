@@ -87,19 +87,15 @@ Skills: `Backend Development` `Debugging` `REST APIs`
 
 🗣️ Languages: English (Proficient) · Hindi (Fluent) · Kannada (Fluent) · Konkani (Native) · Sanskrit (Basic)
 
-## 📊 GitHub Activity
+## GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aish-19shanbhag&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aish-19shanbhag&layout=compact&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=aish-19shanbhag&background=141321&ring=F8D847&fire=F8D847&currStreakNum=FE428E&currStreakLabel=FE428E&sideNums=F8D847&sideLabels=F8D847&dates=A9A1FF&stroke=E4E2E2&border=E4E2E2" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aish-19shanbhag&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aish-19shanbhag&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aish-19shanbhag&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aish-19shanbhag&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aish-19shanbhag&color=3F6659&style=flat-square&label=Profile+Views)
