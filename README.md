@@ -25,41 +25,28 @@ Check out my [repositories](https://github.com/aish-19shanbhag?tab=repositories)
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,sklearn,tensorflow,pytorch,aws,gcp,git,github,linux,vscode&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,sklearn,aws,git&perline=6" />
 </p>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/pandas" width="45" title="Pandas" />&nbsp;
   <img src="https://cdn.simpleicons.org/numpy" width="45" title="NumPy" />&nbsp;
-  <img src="https://cdn.simpleicons.org/scipy" width="45" title="SciPy" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib" />&nbsp;
-  <img src="https://cdn.simpleicons.org/plotly" width="45" title="Plotly" />&nbsp;
-  <img src="https://cdn.simpleicons.org/keras" width="45" title="Keras" />&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface" width="45" title="Hugging Face (NLP)" />&nbsp;
-  <img src="https://cdn.simpleicons.org/jupyter" width="45" title="Jupyter" />&nbsp;
-  <img src="https://cdn.simpleicons.org/anaconda" width="45" title="Anaconda" />
-</p>
-
-<p align="center">
   <img src="https://cdn.simpleicons.org/snowflake" width="45" title="Snowflake" />&nbsp;
-  <img src="https://cdn.simpleicons.org/apachespark" width="45" title="Apache Spark" />&nbsp;
-  <img src="https://cdn.simpleicons.org/databricks" width="45" title="Databricks" />&nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark" width="45" title="Apache Spark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SageMaker-01A88D?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Statistics-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/A%2FB_Testing-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time_Series_Forecasting-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fraud_Detection-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Time_Series_Forecasting-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/A%2FB_Testing-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-0F766E?style=for-the-badge" />
 </p>
 
 ---
