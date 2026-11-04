@@ -83,6 +83,7 @@ Skills: `Backend Development` `Debugging` `REST APIs`
 
 - Keynote Speaker, **MLDS Conference** — addressed an audience of 500+ attendees
 - **Societe Generale Spot Award** — individual recognition for outstanding performance
+- **Natwest Group Spot Award** — individual recognition for outstanding performance
 - Certifications: Google Data Analytics (Coursera) · Introduction to Snowflake (DataCamp) · Product Management: Building a Product Roadmap (LinkedIn Learning)
 
 🗣️ Languages: English (Proficient) · Hindi (Fluent) · Kannada (Fluent) · Konkani (Native) · Sanskrit (Basic)
