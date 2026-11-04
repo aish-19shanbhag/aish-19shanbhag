@@ -44,10 +44,6 @@ Check out my [repositories](https://github.com/aish-19shanbhag?tab=repositories)
   <img src="https://cdn.simpleicons.org/snowflake" width="45" title="Snowflake" />&nbsp;
   <img src="https://cdn.simpleicons.org/apachespark" width="45" title="Apache Spark" />&nbsp;
   <img src="https://cdn.simpleicons.org/databricks" width="45" title="Databricks" />&nbsp;
-  <img src="https://cdn.simpleicons.org/apacheairflow" width="45" title="Airflow" />&nbsp;
-  <img src="https://cdn.simpleicons.org/mlflow" width="45" title="MLflow" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau" width="45" title="Tableau" />&nbsp;
-  <img src="https://cdn.simpleicons.org/streamlit" width="45" title="Streamlit" />
 </p>
 
 <p align="center">
