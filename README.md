@@ -88,13 +88,15 @@ Skills: `Backend Development` `Debugging` `REST APIs`
 
 ---
 
-### 📌 Featured Projects
+📌 Featured Projects
 
-- **[Intrusion Detection Using Ensemble Techniques](https://github.com/aish-19shanbhag/intrusion-detection-ensemble)** — Maximum Voting Ensemble (Naive Bayes, Decision Tree, XGBoost) on NSL-KDD: **99.91% accuracy**, **0.06% false-positive rate**, beats every base model on the official benchmark.
-- **[Social Distance Detection using YOLOv3](https://github.com/aish-19shanbhag/social-distance-detection)** — YOLOv3 / SSD MobileNet person detection with bird's-eye perspective mapping and real-distance risk zones; Streamlit app, ~11 fps on CPU.
-- **[House Price Prediction Model](https://github.com/aish-19shanbhag/house-price-prediction-model)** — Multi-model regression on 21,613 King County sales; original comparison reproduced (Lasso best), 2026 rebuild reaches **R² 0.915** with Gradient Boosting.
-- **[Warehouse Management System](https://github.com/aish-19shanbhag/warehouse-management-system)** — Role-based inventory system in modern C++17 with salted SHA-256 logins and **78 automated tests** passing in CI.
+* [Real-Time Transaction Fraud Scoring Service](https://github.com/aish-19shanbhag/fraud-scoring-service) — Full-stack fraud detection: FastAPI + Redis feature store + gradient boosting scores transactions in ~11 ms (p95), auto-blocks at 92% precision (PR-AUC 0.93), and streams alerts to a live React dashboard; Dockerized with CI.
+* [MicroNN: Filtered Vector Search](https://github.com/keethz/MicroNN) — Team re-implementation of Apple's MicroNN embedded vector database on SQLite; my adaptive filtered-search plan raised queries hitting 0.9 recall from 60% to 97% on 1.18M GloVe vectors.
+* [Intrusion Detection Using Ensemble Techniques](https://github.com/aish-19shanbhag/intrusion-detection-ensemble) — Maximum Voting Ensemble (Naive Bayes, Decision Tree, XGBoost) on NSL-KDD: 99.91% accuracy, 0.06% false-positive rate, beats every base model on the official benchmark.
+* [House Price Prediction Model](https://github.com/aish-19shanbhag/house-price-prediction-model) — Multi-model regression on 21,613 King County sales; original comparison reproduced (Lasso best), 2026 rebuild reaches R² 0.915 with Gradient Boosting.
+* [Warehouse Management System](https://github.com/aish-19shanbhag/warehouse-management-system) — Role-based inventory system in modern C++17 with salted SHA-256 logins and 78 automated tests passing in CI.
 
+🗂️ More: [Social Distance Detection using YOLOv3](https://github.com/aish-19shanbhag/social-distance-detection) — real-time person detection and distance-based risk zones (Streamlit, ~11 fps on CPU).
 ---
 
 ### 🌱 Leadership & Community
