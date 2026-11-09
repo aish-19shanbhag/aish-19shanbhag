@@ -95,8 +95,7 @@ Skills: `Backend Development` `Debugging` `REST APIs`
 * [Intrusion Detection Using Ensemble Techniques](https://github.com/aish-19shanbhag/intrusion-detection-ensemble) — Maximum Voting Ensemble (Naive Bayes, Decision Tree, XGBoost) on NSL-KDD: 99.91% accuracy, 0.06% false-positive rate, beats every base model on the official benchmark.
 * [House Price Prediction Model](https://github.com/aish-19shanbhag/house-price-prediction-model) — Multi-model regression on 21,613 King County sales; original comparison reproduced (Lasso best), 2026 rebuild reaches R² 0.915 with Gradient Boosting.
 * [Warehouse Management System](https://github.com/aish-19shanbhag/warehouse-management-system) — Role-based inventory system in modern C++17 with salted SHA-256 logins and 78 automated tests passing in CI.
-
-🗂️ More: [Social Distance Detection using YOLOv3](https://github.com/aish-19shanbhag/social-distance-detection) — real-time person detection and distance-based risk zones (Streamlit, ~11 fps on CPU).
+* [Social Distance Detection using YOLOv3](https://github.com/aish-19shanbhag/social-distance-detection) — real-time person detection and distance-based risk zones (Streamlit, ~11 fps on CPU).
 ---
 
 ### 🌱 Leadership & Community
