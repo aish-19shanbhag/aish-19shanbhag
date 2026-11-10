@@ -84,7 +84,7 @@ Feb 2022 – Aug 2022 · Chennai, India
 - Shipped new platform features, including **search and cloning functionality** plus reusable configuration templates, cutting **configuration time by 25%** for end users.
 - Built **breakout, filtering, and attribute-selection modules** from the ground up, designing the underlying logic and testing each feature thoroughly to increase user productivity.
 
-Skills: `Backend Development` `Debugging` `REST APIs`
+Skills: `Backend Development` `Debugging` `Debugging, Feature Development`
 
 ---
 
