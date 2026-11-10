@@ -108,7 +108,7 @@ Skills: `Backend Development` `Debugging` `REST APIs`
 
 ### 🏆 Recognition & Certifications
 
-- **Attended MLDS Conference 2025 (ML & Data Science, Bangalore)
+- **Attended MLDS Conference 2025** (ML & Data Science, Bangalore)
 - **Societe Generale Spot Award** — individual recognition for outstanding performance
 - **NatWest Group Spot Award** — individual recognition for outstanding performance
 - Certifications: Google Data Analytics (Coursera) · Introduction to Snowflake (DataCamp) · Product Management: Building a Product Roadmap (LinkedIn Learning)
