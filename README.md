@@ -8,10 +8,10 @@
 ---
 
 - 🎓 MS Computer Science @ San José State University
-- 🏦 4+ years across two banks (NatWest Group, Societe Generale) building fraud detection & financial crime risk models
+- 🏦 4 years across two banks (NatWest Group, Societe Generale) building fraud detection & financial crime risk models
 - 📍 San Jose, CA
 - 🎯 Seeking **Summer 2027** internships: Data Science · Machine Learning · Software Engineering
-- ✉️ [aishwaryaramanath.shanbhag@sjsu.edu](mailto:aishwaryaramanath.shanbhag@sjsu.edu) · [ashanbhag26@gmail.com](mailto:ashanbhag26@gmail.com)
+- ✉️ [aishwaryaramanath.shanbhag@sjsu.edu](mailto:aishwaryaramanath.shanbhag@sjsu.edu)
 - 🌐 Portfolio: [aish-19shanbhag.github.io](https://aish-19shanbhag.github.io/)
 
 Check out my [repositories](https://github.com/aish-19shanbhag?tab=repositories) for project code.
@@ -108,9 +108,9 @@ Skills: `Backend Development` `Debugging` `REST APIs`
 
 ### 🏆 Recognition & Certifications
 
-- Keynote Speaker, **MLDS Conference** — addressed an audience of 500+ attendees
+- **Attended MLDS Conference 2025 (ML & Data Science, Bangalore)
 - **Societe Generale Spot Award** — individual recognition for outstanding performance
-- **Natwest Group Spot Award** — individual recognition for outstanding performance
+- **NatWest Group Spot Award** — individual recognition for outstanding performance
 - Certifications: Google Data Analytics (Coursera) · Introduction to Snowflake (DataCamp) · Product Management: Building a Product Roadmap (LinkedIn Learning)
 
 🗣️ Languages: English (Proficient) · Hindi (Fluent) · Kannada (Fluent) · Konkani (Native) · Sanskrit (Basic)
